@@ -1,6 +1,6 @@
-package stake
+package main
 import "fmt"
 
-func stake(){
+func main(){
 	fmt.Println("hey i'm staking");
 }
