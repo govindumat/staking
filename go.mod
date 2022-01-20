@@ -1,5 +1,5 @@
-module staking
+module github.com/wagslane/go-rabbitmq
 
-go 1.17
+go 1.16
 
-require gopkg.in/urfave/cli.v1 v1.20.0 // indirect
+require github.com/rabbitmq/amqp091-go v0.0.0-20210823000215-c428a6150891
